@@ -127,7 +127,8 @@ Failure Analysis
 ## Contact
 
 LinkedIn:
-YOUR_LINK_HERE
+https://www.linkedin.com/in/j-wen/
 
 Email:
-YOUR_EMAIL_HERE
+jiayanwen2003@gmail.com
+13621074266@163.com
