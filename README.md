@@ -37,7 +37,7 @@ Highlights:
 - Developed unit tests and end-to-end simulation flow with Verilator
 
 Repository:
-[adaptive-sampling-monitor](YOUR_LINK_HERE)
+[adaptive-sampling-monitor](https://github.com/jwen2003/adaptive-sampling-monitor)
 
 ---
 
@@ -64,7 +64,7 @@ Results on the official DeepPCB test split:
 - F1 improved from 48.19% to 75.81%
 
 Repository:
-[DeepPCB-defect-detection](YOUR_LINK_HERE)
+[DeepPCB-defect-detection](https://github.com/jwen2003/DeepPCB-defect-detection)
 
 ---
 
@@ -88,7 +88,7 @@ The goal is not memorizing components, but building a reusable approach:
 - Connect physical behavior with software-visible symptoms
 
 Repository:
-[The-Hardware-Engineering-Playbook](YOUR_LINK_HERE)
+[The-Hardware-Engineering-Playbook](https://github.com/jwen2003/The-Hardware-Engineering-Playbook)
 
 ---
 
