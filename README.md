@@ -47,7 +47,7 @@ Highlights:
 * Turned FPGA/ASIC mapping differences into a separate experimental question rather than assuming ASIC conclusions transfer directly to FPGA DSP architectures
 
 Repository:
-[radix2-butterfly-mvp](https://github.com/jwen2003/radix2-butterfly-mvp)
+[radix2-butterfly](https://github.com/jwen2003/radix2-butterfly)
 
 ---
 
@@ -102,6 +102,9 @@ Input Feeder → Wavefront Scheduling → Controller
 
 The project intentionally separates completed RTL/verification evidence from feeder, control, utilization, and PPA claims that have not yet been established.
 
+Repository:
+Repository link to be added once public.
+
 ---
 
 ### Matrix Multiplication & CPU Performance Study — Ongoing
@@ -140,6 +143,9 @@ Current work includes:
 
 The longer-term project connects the same Matmul contract to CPU optimization, GPU kernels, memory hierarchy, and minimal runtime dispatch.
 
+Repository:
+[mini-gpu-runtime-playground](https://github.com/jwen2003/mini-gpu-runtime-playground)
+
 ---
 
 ### PCB Defect Detection and Review Pipeline
@@ -158,7 +164,7 @@ Highlights:
 * Documented threshold tradeoffs, data-split boundaries, and domain limitations rather than treating aggregate accuracy as sufficient evidence
 
 Repository:
-[DeepPCB-defect-detection](https://github.com/jwen2003/DeepPCB-defect-detection)
+[pcb-defect-detection](https://github.com/jwen2003/pcb-defect-detection)
 
 ---
 
@@ -269,4 +275,4 @@ https://github.com/jwen2003
 
 Email:
 [jiayanwen2003@gmail.com](mailto:jiayanwen2003@gmail.com)
-
+[13621074266@163.com](mailto:13621074266@163.com)
