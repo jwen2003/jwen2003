@@ -103,7 +103,7 @@ Input Feeder → Wavefront Scheduling → Controller
 The project intentionally separates completed RTL/verification evidence from feeder, control, utilization, and PPA claims that have not yet been established.
 
 Repository:
-Repository link to be added once public.
+https://github.com/jwen2003/systolic-array
 
 ---
 
